@@ -5,4 +5,5 @@ jdk:
   - openjdk7
   - openjdk6
 archive: true
-script: mvn --version
+
+before_script: mvn --version
