@@ -8,4 +8,4 @@ jdk:
 archive: true
 
 before_script: mvn --version
-build_image: shippable/minv2:beta 
+#build_image: shippable/minv2:beta 
